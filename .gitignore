@@ -1,0 +1,27 @@
+# Large design assets
+DESIGN/Untitled-2.psd
+*.psd
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Build outputs
+build/
+dist/
+
+# Temporary and system files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
